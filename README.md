@@ -31,7 +31,7 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 
    ![Static Badge](https://img.shields.io/badge/Arduino_ide%20-%20%20%23009999?style=for-the-badge&logo=arduino&logoColor=%23009999&logoSize=auto&labelColor=%23F0F8FF)
    ![Static Badge](https://img.shields.io/badge/2.3.2-%23009999?label=Version)
-   ![Static Badge](https://img.shields.io/badge/Downlond-https%3A%2F%2Fwww.arduino.cc%2Fen%2Fsoftware-%23009999)
+   ![Static Badge](https://img.shields.io/badge/build-%20https%3A%2F%2Fwww.arduino.cc%2Fen%2Fsoftware%20-009999?label=Downlond&link=https%3A%2F%2Fwww.arduino.cc%2Fen%2Fsoftware)
 
 - SolidWorks (for robot design)
 

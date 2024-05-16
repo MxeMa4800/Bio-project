@@ -37,7 +37,7 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 
    ![Static Badge](https://img.shields.io/badge/SOLIDWORK%20-%20%23FF3333%09?style=for-the-badge&logo=dassaultsystemes&labelColor=%23BEBEBE) 
    ![Static Badge](https://img.shields.io/badge/2022-%23FF0000?label=Version&link=https%3A%2F%2Fwww.arduino.cc%2Fen%2Fsoftware)
-   ![Static Badge](https://img.shields.io/badge/Downlond-https%3A%2F%2Fwww.solidworks.com%2Fsw%2Fsupport%2Fdownloads.htm-%23FF0000)
+   ![Static Badge](https://img.shields.io/badge/build-%20https%3A%2F%2Fwww.solidworks.com%2Fsw%2Fsupport%2Fdownloads.htm%20-FF0000?label=Downlond)
 
 #### 3. Hardware
 

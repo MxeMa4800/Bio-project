@@ -11,7 +11,7 @@
 7. [License](#license)
 8. [Acknowledgements](#acknowledgements)
 
-## <img src="image-7.png" width="25" height="25">  Installation 
+## <img src="image/image-7.png" width="25" height="25">  Installation 
 In order to ensure a smooth start, this section includes a list of prerequisites and instructions for installing the required hardware and software for the robot project.
 
 ### Prerequisites
@@ -55,7 +55,7 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 
 
    
-   <img src="image-4.png" width="55" height="60">[รูปAssemble แบบที่เห็นวางติด อิเล็กไว้ตรงไหนบ้าง] 
+   <img src="image/image-4.png" width="55" height="60">[รูปAssemble แบบที่เห็นวางติด อิเล็กไว้ตรงไหนบ้าง] 
 
 2. Connect the Electrical Circuit
 

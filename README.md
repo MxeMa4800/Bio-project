@@ -1,20 +1,25 @@
 # Stegosaurus Project
-
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Configuration](#configuration)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Acknowledgements](#acknowledgements)
 
-## <img src="image/image-7.png" width="25" height="25">  Installation 
+   3.1. [Prerequisites](#prerequisites)
+
+   3.2. [Software Installation Steps](#software_installation_steps)
+
+   3.3. [Prerequisites](#prerequisites)
+4. [Robot Design](#robot design)
+5. [Code](#code)
+6. [Configuration and Customization](#contributing)
+7. [License](#license)
+8. [Authors and Contributors](#authors)
+
+
+## Installation 
 In order to ensure a smooth start, this section includes a list of prerequisites and instructions for installing the required hardware and software for the robot project.
 
-### Prerequisites
+### **Prerequisites**
 #### 1. Operating System 
 - Windows
 
@@ -39,7 +44,7 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 
 
 
-### Software Installation Steps
+### **Software Installation Steps**
 1. Install Arduino IDE
 - The Arduino IDE can be downloaded and installed from the [Arduino website](https://www.arduino.cc/en/software/).
 - Launch the Arduino IDE and add the required libraries, like Math and [SCServo](https://github.com/zompin/SCServoBothMode). 
@@ -48,24 +53,40 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 - SolidWorks can be downloaded and installed from the [SolidWorks official website](https://www.solidworks.com/sw/support/downloads.htm).
 - Launch SolidWorks and confirm that all required modules, including Part, Simulation and Electrical, are installed.
 
-### Hardware Installation Steps
+### **Hardware Installation Steps**
 1. Assemble the Robot Structure
 - The robot's primary structure can be constructed using the assembly guide found in the SolidWorks files.
-- Place electrical in the designated locations.
-
-
-   
+- Place electrical in the designated locations.   
    <img src="image/image-4.png" width="55" height="60">[รูปAssemble แบบที่เห็นวางติด อิเล็กไว้ตรงไหนบ้าง] 
 
 2. Connect the Electrical Circuit
 
-- Use the electrical circuit diagram to install and connect wires between the microcontroller, motors, sensors, and battery
-- Ensure all connections are secure and safe
-Install Sensors:
+- Wires between the microcontroller(Arduino uno r4), servo, sensors, and batteries should be installed and connected using the electrical circuit schematic.
+- Make sure every connection is safe and secure.
 
-Install the various sensors on the robot in their designated positions
-Connect the sensors to the microcontroller and verify the functionality of each sensor
-Configure Communication between Hardware and Software:
+   <img src="image/image-4.png" width="55" height="60">[รูปแผงวงจร] 
 
-Use Arduino IDE or Python to write programs that control the motors and sensors
-Test the communication between hardware and software to ensure proper control functionality
+## Robot Design
+### **Main Structure**
+- Robots with sturdy, lightweight main structures can move with greater agility. The body is made of PLA and wood.
+
+ <img src="image/image-4.png" width="55" height="60">[ภาพถ่ายหุ่นเปลือย ไร้หนัง] 
+
+### **Joints and Actuators**
+
+- The robot has wood for its joints and legs. To further aid secure the armor to the ground, rubber was also used to protect the feet.
+
+<img src="image/image-4.png" width="55" height="60">[วิดีโอตอนขาขยับ] 
+
+## Codeอาจจะไม่ใส่
+
+## Configuration and Customization
+-วิธีการตั้งค่าและปรับแต่งหุ่นยนต์ตามความต้องการ 
+
+- ค่าพารามิเตอร์ที่สามารถปรับเปลี่ยนได้ ลิงค์กับ excel
+
+## License
+
+- เอกสารสูตรที่เอามา
+## Authors and Contributors
+- ข้อมูลเกี่ยวกับผู้พัฒนาและผู้มีส่วนร่วมในโปรเจกต์ 

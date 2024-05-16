@@ -29,23 +29,21 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 - Arduino IDE (for programming Arduino)
 
    ![Static Badge](https://img.shields.io/badge/Arduino%20-%20%20%23009999?style=for-the-badge&logo=arduino&logoColor=%23009999&logoSize=auto&labelColor=%23F0F8FF)
-   ![Arduino IDE](https://img.shields.io/badge/Version-2.3.2-orange) 
-   ![Build Status](https://img.shields.io/github/workflow/status/OWNER/REPOSITORY/WORKFLOW_NAME)
-   ![Static Badge](https://img.shields.io/badge/build-https%3A%2F%2Fwww.arduino.cc%2Fen%2Fsoftware%20-%20%23009999?style=for-the-badge&label=Download&labelColor=%23FFFFCC&link=https%3A%2F%2Fwww.arduino.cc%2Fen%2Fsoftware)
+   ![Static Badge](https://img.shields.io/badge/2.3.2-%23FF4500?label=Version&link=https%3A%2F%2Fwww.arduino.cc%2Fen%2Fsoftware)
+   ![Static Badge](https://img.shields.io/badge/build%20-%20https%3A%2F%2Fwww.arduino.cc%2Fen%2Fsoftware-%23FF4500?label=Downlond&link=https%3A%2F%2Fwww.arduino.cc%2Fen%2Fsoftware)
 
 
 
 
 
-- Arduino IDE (for programming Arduino)
 
-
-
-![License](https://img.shields.io/github/license/OWNER/REPOSITORY)
-![Stars](https://img.shields.io/github/stars/OWNER/REPOSITORY)
-![Forks](https://img.shields.io/github/forks/OWNER/REPOSITORY)
+- SolidWorks (for robot design)
 
    ![Static Badge](https://img.shields.io/badge/SOLIDWORK%20-%20%23FF3333%09?style=for-the-badge&logo=dassaultsystemes&labelColor=%23BEBEBE) 
+   ![Static Badge](https://img.shields.io/badge/2022-%23FF4500?label=Version&link=https%3A%2F%2Fwww.arduino.cc%2Fen%2Fsoftware)
+   ![Static Badge](https://img.shields.io/badge/Downlond-https%3A%2F%2Fwww.solidworks.com%2Fsw%2Fsupport%2Fdownloads.htm-%23FF4500)
+
+
 
 
 

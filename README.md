@@ -1,20 +1,19 @@
 # Stegosaurus Project
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Installation](#installation)
+2. [Installation](#installation)
 
    - [Prerequisites](#prerequisites)
 
    - [Software Installation Steps](#software_installation_steps)
 
    - [Hardware Installation Steps](#prerequisites)
-4. [Robot Design](#robot_design)
-5. [Code](#code)
-6. [Configuration and Customization](#contributing)
-7. [License](#license)
-8. [Authors and Contributors](#authors)
+3. [Robot Design](#robot_design)
+4. [Configuration and Customization](#contributing)
+5. [Authors and Contributors](#authors)
 
+## Introduction
+The goal of this project is to create a moving robot by controlling it with a Central Pattern Generator (CPG) and virtual hormones, which simulate how the nervous system works in living things. To guarantee the robot operates realistically, the project also entails building physical models in SolidWorks and constructing electrical circuits.
 
 ## Installation 
 In order to ensure a smooth start, this section includes a list of prerequisites and instructions for installing the required hardware and software for the robot project.
@@ -146,15 +145,14 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 
 <img src="image/image-4.png" width="55" height="60">[วิดีโอตอนขาขยับ] 
 
-## Codeอาจจะไม่ใส่
 
 ## Configuration and Customization
 -วิธีการตั้งค่าและปรับแต่งหุ่นยนต์ตามความต้องการ 
 
 - ค่าพารามิเตอร์ที่สามารถปรับเปลี่ยนได้ ลิงค์กับ excel
 
-## License
 
 - เอกสารสูตรที่เอามา
+
 ## Authors and Contributors
 - ข้อมูลเกี่ยวกับผู้พัฒนาและผู้มีส่วนร่วมในโปรเจกต์ 

@@ -63,7 +63,8 @@ In order to ensure a smooth start, this section includes a list of prerequisites
     **Installing more Arduino libraries**
 
      - Open the Arduino IDE program, go to Sketch > Include Library > Manage Libraries.
-     <img src="image/3.png" width="400" height="250">
+     
+        <img src="image/3.png" width="400" height="250">
 
     - In the search box, type the name of the desired library. Click More info to see how to utilize it. Click the Install button in order to install.
       

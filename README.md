@@ -4,12 +4,12 @@
 2. [Features](#features)
 3. [Installation](#installation)
 
-   3.1. [Prerequisites](#prerequisites)
+   - [Prerequisites](#prerequisites)
 
-   3.2. [Software Installation Steps](#software_installation_steps)
+   - [Software Installation Steps](#software_installation_steps)
 
-   3.3. [Prerequisites](#prerequisites)
-4. [Robot Design](#robot design)
+   - [Hardware Installation Steps](#prerequisites)
+4. [Robot Design](#robot_design)
 5. [Code](#code)
 6. [Configuration and Customization](#contributing)
 7. [License](#license)
@@ -20,13 +20,14 @@
 In order to ensure a smooth start, this section includes a list of prerequisites and instructions for installing the required hardware and software for the robot project.
 
 ### **Prerequisites**
-#### 1. Operating System 
-- Windows
 
-   ![Static Badge](https://img.shields.io/badge/Windows-%23E6E6FA?style=for-the-badge&logo=windows&logoColor=%23FFFAFA&labelColor=%230099FF)
-   ![Static Badge](https://img.shields.io/badge/Version%20-%2011_or_laster%20-%230099FF)
+1. Operating System 
+   - Windows
 
-#### 2. Software 
+      ![Static Badge](https://img.shields.io/badge/Windows-%23E6E6FA?style=for-the-badge&logo=windows&logoColor=%23FFFAFA&labelColor=%230099FF)
+      ![Static Badge](https://img.shields.io/badge/Version%20-%2011_or_laster%20-%230099FF)
+
+2. Software 
 - Arduino IDE (for programming Arduino)
 
    ![Static Badge](https://img.shields.io/badge/Arduino_ide%20-%20%20%23009999?style=for-the-badge&logo=arduino&logoColor=%23009999&logoSize=auto&labelColor=%23F0F8FF)
@@ -40,7 +41,7 @@ In order to ensure a smooth start, this section includes a list of prerequisites
    ![Static Badge](https://img.shields.io/badge/build-%20https%3A%2F%2Fwww.solidworks.com%2Fsw%2Fsupport%2Fdownloads.htm%20-FF0000?label=Downlond&link=https%3A%2F%2Fwww.solidworks.com%2Fsw%2Fsupport%2Fdownloads.htm)
 
 
-#### 3. Hardware
+ 3. Hardware
 
 
 
@@ -50,13 +51,23 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 - The Arduino IDE can be downloaded and installed from the [Arduino website](https://www.arduino.cc/en/software/).
 - Launch the Arduino IDE and add the required libraries, like Math and [SCServo](https://github.com/IS2511/SCServo/blob/master/SCSCL.cpp). 
    
-   **Installing the SCServo library**
-   - Get the Library from here in a zip file.
-     
-      https://github.com/IS2511/SCServo/blob/master/SCSCL.cpp
+   **Zip file installation for the library**
+   - Get the Library from here in a zip file. 
 
       <img src="image/1.jpg" width="400" height="250">
+
+   - Open the Arduino IDE program, go to Sketch > Include Library > Add .ZIP Library, then pick the file that you downloaded.
+
+      <img src="image/2.jpg" width="400" height="250">
+
+    **Installing more Arduino libraries**
+
+     - Open the Arduino IDE program, go to Sketch > Include Library > Manage Libraries.
+     <img src="image/3.png" width="400" height="250">
+
+    - In the search box, type the name of the desired library. Click More info to see how to utilize it. Click the Install button in order to install.
       
+      <img src="image/4.jpg" width="400" height="250">
 
 2. Install SolidWorks
 - SolidWorks can be downloaded and installed from the [SolidWorks official website](https://www.solidworks.com/sw/support/downloads.htm).

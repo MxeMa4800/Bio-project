@@ -42,7 +42,7 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 
  3. Hardware
 
-      <table style="width:100%;">
+      <table style="width:20%;">
       <thead>
          <tr>
             <th style= "text-align:center;">No.</th>

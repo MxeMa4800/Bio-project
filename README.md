@@ -51,7 +51,8 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 - Launch the Arduino IDE and add the required libraries, like Math and [SCServo](https://github.com/IS2511/SCServo/blob/master/SCSCL.cpp). 
    
    **Installing the SCServo library**
-   - Get the Library from here in a zip file. 
+   - Get the Library from here in a zip file.
+     
       https://github.com/IS2511/SCServo/blob/master/SCSCL.cpp
 
       <img src="image/1.jpg" width="400" height="250">

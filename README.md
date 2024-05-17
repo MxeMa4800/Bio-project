@@ -37,12 +37,12 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 - SolidWorks (for robot design)
 
    ![Static Badge](https://img.shields.io/badge/SOLIDWORK%20-%20%23FF3333%09?style=for-the-badge&logo=dassaultsystemes&labelColor=%23BEBEBE) 
-   ![Static Badge](https://img.shields.io/badge/2022-%23FF0000?label=Version&link=https%3A%2F%2Fwww.arduino.cc%2Fen%2Fsoftware)
+   ![Static Badge](https://img.shields.io/badge/2020-%23FF0000?label=Version&link=https%3A%2F%2Fwww.arduino.cc%2Fen%2Fsoftware)
    ![Static Badge](https://img.shields.io/badge/build-%20https%3A%2F%2Fwww.solidworks.com%2Fsw%2Fsupport%2Fdownloads.htm%20-FF0000?label=Downlond&link=https%3A%2F%2Fwww.solidworks.com%2Fsw%2Fsupport%2Fdownloads.htm)
 
  3. Hardware
 
-      <table>
+      <table style="width:100%; border-collapse: collapse;">
       <thead>
          <tr>
             <th style= "text-align:center;">No.</th>
@@ -69,6 +69,24 @@ In order to ensure a smooth start, this section includes a list of prerequisites
             <td style= "text-align:center;">SCS15</td>
              <td style= "text-align:center;"><img src="image/7.png" width="100" height="100"></td>
             <td style= "text-align:center;">8</td>
+         </tr>
+         </tr>
+            <td style= "text-align:center;">4.</td>
+            <td style= "text-align:center;">Helicox 3000mA</td>
+             <td style= "text-align:center;"><img src="image/10.jpg" width="100" height="100"></td>
+            <td style= "text-align:center;"> 1 </td>
+         </tr>
+         </tr>
+            <td style= "text-align:center;">5.</td>
+            <td style= "text-align:center;">เซนเซอร์วัดระยะ</td>
+             <td style= "text-align:center;"><img src="image/7.png" width="100" height="100"></td>
+            <td style= "text-align:center;"> 2 </td>
+         </tr>
+          </tr>
+            <td style= "text-align:center;">6.</td>
+            <td style= "text-align:center;">Vehicle tires</td>
+             <td style= "text-align:center;"><img src="image/8.jpg" width="100" height="100"></td>
+            <td style= "text-align:center;"> 1 </td>
          </tr>
       </tbody>
       </table>

@@ -66,9 +66,9 @@ In order to ensure a smooth start, this section includes a list of prerequisites
          </tr>
          <tr>
             <td style= "text-align:center;">3.</td>
-            <td style= "text-align:center;">40</td>
-             <td style= "text-align:center;"><img src="image/6.jpg" width="100" height="100"></td>
-            <td style= "text-align:center;">Manager</td>
+            <td style= "text-align:center;">SCS15</td>
+             <td style= "text-align:center;"><img src="image/7.png" width="100" height="100"></td>
+            <td style= "text-align:center;">8</td>
          </tr>
       </tbody>
       </table>

@@ -78,8 +78,8 @@ In order to ensure a smooth start, this section includes a list of prerequisites
          </tr>
          </tr>
             <td style= "text-align:center;">5.</td>
-            <td style= "text-align:center;">เซนเซอร์วัดระยะ</td>
-             <td style= "text-align:center;"><img src="image/7.png" width="100" height="100"></td>
+            <td style= "text-align:center;">US-015 Ultrasonic Sensor Module</td>
+             <td style= "text-align:center;"><img src="image/11.jpg" width="100" height="100"></td>
             <td style= "text-align:center;"> 2 </td>
          </tr>
           </tr>

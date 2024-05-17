@@ -39,6 +39,7 @@ In order to ensure a smooth start, this section includes a list of prerequisites
    ![Static Badge](https://img.shields.io/badge/2022-%23FF0000?label=Version&link=https%3A%2F%2Fwww.arduino.cc%2Fen%2Fsoftware)
    ![Static Badge](https://img.shields.io/badge/build-%20https%3A%2F%2Fwww.solidworks.com%2Fsw%2Fsupport%2Fdownloads.htm%20-FF0000?label=Downlond&link=https%3A%2F%2Fwww.solidworks.com%2Fsw%2Fsupport%2Fdownloads.htm)
 
+
 #### 3. Hardware
 
 
@@ -47,8 +48,10 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 ### **Software Installation Steps**
 1. Install Arduino IDE
 - The Arduino IDE can be downloaded and installed from the [Arduino website](https://www.arduino.cc/en/software/).
-- Launch the Arduino IDE and add the required libraries, like Math and [SCServo](https://github.com/zompin/SCServoBothMode). 
+- Launch the Arduino IDE and add the required libraries, like Math and [SCServo](https://github.com/IS2511/SCServo/blob/master/SCSCL.cpp). 
+   - Installing the SCServo library
 
+         k
 2. Install SolidWorks
 - SolidWorks can be downloaded and installed from the [SolidWorks official website](https://www.solidworks.com/sw/support/downloads.htm).
 - Launch SolidWorks and confirm that all required modules, including Part, Simulation and Electrical, are installed.

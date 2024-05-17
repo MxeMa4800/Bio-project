@@ -40,9 +40,38 @@ In order to ensure a smooth start, this section includes a list of prerequisites
    ![Static Badge](https://img.shields.io/badge/2022-%23FF0000?label=Version&link=https%3A%2F%2Fwww.arduino.cc%2Fen%2Fsoftware)
    ![Static Badge](https://img.shields.io/badge/build-%20https%3A%2F%2Fwww.solidworks.com%2Fsw%2Fsupport%2Fdownloads.htm%20-FF0000?label=Downlond&link=https%3A%2F%2Fwww.solidworks.com%2Fsw%2Fsupport%2Fdownloads.htm)
 
-
  3. Hardware
 
+      <table style="width:80%;">
+      <thead>
+         <tr>
+            <th style= "text-align:center;">No.</th>
+            <th style= "text-align:center;">List</th>
+            <th style= "text-align:center;">Image</th>
+            <th style= "text-align:center;">Amount (Pcs)</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td style= "text-align:center;">1.</td>
+            <td style= "text-align:center;">Arduino UNO R4 WIFI</td>
+            <td style= "text-align:center;"><img src="image/5.jpg" width="100" height="100"></td>
+            <td style= "text-align:center;">1</td>
+         </tr>
+         <tr>
+            <td style= "text-align:center;">2.</td>
+            <td style= "text-align:center;">FE-URT-1</td>
+            <td style= "text-align:center;"><img src="image/6.jpg" width="100" height="100"></td>
+            <td style= "text-align:center;">1</td>
+         </tr>
+         <tr>
+            <td style= "text-align:center;">3.</td>
+            <td style= "text-align:center;">40</td>
+             <td style= "text-align:center;"><img src="image/6.jpg" width="100" height="100"></td>
+            <td style= "text-align:center;">Manager</td>
+         </tr>
+      </tbody>
+      </table>
 
 
 

@@ -1,18 +1,4 @@
 # Stegosaurus Project
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Installation](#installation)
-
-   - [Prerequisites](#prerequisites)
-
-   - [Software Installation Steps](#software_installation_steps)
-
-   - [Hardware Installation Steps](#prerequisites)
-3. [Robot Design](#robot_design)
-4. [Configuration and Customization](#contributing)
-5. [Authors and Contributors](#authors)
-
-## Introduction
 The goal of this project is to create a moving robot by controlling it with a Central Pattern Generator (CPG) and virtual hormones, which simulate how the nervous system works in living things. To guarantee the robot operates realistically, the project also entails building physical models in SolidWorks and constructing electrical circuits.
 
 ## Installation 
@@ -124,35 +110,39 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 1. Assemble the Robot Structure
 - The robot's primary structure can be constructed using the assembly guide found in the SolidWorks files.
 - Place electrical in the designated locations.   
-   <img src="image/image-4.png" width="55" height="60">[รูปAssemble แบบที่เห็นวางติด อิเล็กไว้ตรงไหนบ้าง] 
 
 2. Connect the Electrical Circuit
 
 - Wires between the microcontroller(Arduino uno r4), servo, sensors, and batteries should be installed and connected using the electrical circuit schematic.
 - Make sure every connection is safe and secure.
 
-   <img src="image/image-4.png" width="55" height="60">[รูปแผงวงจร] 
+   <img src="image/13.png" width="400" height="350">
 
 ## Robot Design
 ### **Main Structure**
 - Robots with sturdy, lightweight main structures can move with greater agility. The body is made of PLA and wood.
 
- <img src="image/image-4.png" width="55" height="60">[ภาพถ่ายหุ่นเปลือย ไร้หนัง] 
+   <img src="image/12.png" width="400" height="250">
 
 ### **Joints and Actuators**
 
 - The robot has wood for its joints and legs. To further aid secure the armor to the ground, rubber was also used to protect the feet.
 
-<img src="image/image-4.png" width="55" height="60">[วิดีโอตอนขาขยับ] 
-
+   [Watch the video on YouTube](https://youtu.be/n-jgDqc_dPE)
 
 ## Configuration and Customization
--วิธีการตั้งค่าและปรับแต่งหุ่นยนต์ตามความต้องการ 
+1. CPG 
 
-- ค่าพารามิเตอร์ที่สามารถปรับเปลี่ยนได้ ลิงค์กับ excel
+   Utilize the values for O1 and O2 to run the motor. To move the legs up and down, use O2, and to go forward and backward, use O1.
 
-
-- เอกสารสูตรที่เอามา
+   <img src="image/14.png" width="400" height="200"> 
+   
+      Values for O1 and O2, derived from graphing in [excel](https://pim365-my.sharepoint.com/:x:/r/personal/6452500121_stu_pim_ac_th/_layouts/15/Doc.aspx?sourcedoc=%7B3D47D774-FDE3-4311-9CD7-444A83FABF04%7D&file=project%20.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&login_hint=6452500121%40stu.pim.ac.th&ct=1716663021386&wdOrigin=OFFICECOM-WEB.MAIN.REC&cid=67ed9d8f-d7ad-4c99-95e9-1ad7726ff029&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=2518b866-0c7a-4d60-9b7b-da8b720042b8)
 
 ## Authors and Contributors
-- ข้อมูลเกี่ยวกับผู้พัฒนาและผู้มีส่วนร่วมในโปรเจกต์ 
+- Miss Supannee   Saengwonrarach    6452500121
+- Miss Phansa     Romruen           6452500155
+- Miss Awanta     Arwon             6452500236
+- Miss Thanita    Kaeoking          6452500244
+- Miss Napasawan  Sittikham         6452500295
+- Miss Sudaporn   Saenyakiattikhun  6452500376

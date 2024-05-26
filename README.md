@@ -198,7 +198,7 @@ If the beta value is close to 0, it will be close to the alpha value. and will b
    <img src="image/image_HcTime_Hc.png" width="400" height="250">
    <img src="image/image_HcTime_noHc.png" width="400" height="250">
    
-   _By replacing movement with 1 and stationary as 0. It can be seen that movement under normal conditions will not change. But if there are hormones, the condition will change over time. Therefore, walking occurs when hormonal stress of fear subsides._   
+   _By replacing moving with 1 and not moving as 0. It can be seen that movement under normal conditions will not change. But if there are hormones, the condition will change over time. Therefore, walking occurs when hormonal stress of fear subsides._   
    
 3. Walking Test Steps
    - Experiment 1:  

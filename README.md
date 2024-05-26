@@ -121,17 +121,18 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 3. Energy consumption
    - The battery used is a Helicox 3000mA. A single battery can last approximately 1-2 hours,    as can be seen from the following calculations
      
-     <img src="image/P1.jpg" width="400" height="300">
+     <img src="image/p1.jpg" width="400" height="300">
 ## Robot Design
 ### **Main Structure**
 1. This robot is designed to walk on four legs, with the main materials used being: 
 
-- PLA+ Filament 
+   - PLA+ Filament 
 
-- Acrylic 2 mm thick 
+   - Acrylic 2 mm thick 
 
-- Wooden boards 2.5 mm and 4 mm
-- **Replacing the leg material from wood to acrylic might yield better results, but be cautious of material breakage.
+   - Wooden boards 2.5 mm and 4 mm
+     
+   ** Replacing the leg material from wood to acrylic might yield better results, but be cautious of material breakage.
 
    <img src="image/g6.jpg" width="400" height="300">
    assemble whit out skin
@@ -189,10 +190,18 @@ In order to ensure a smooth start, this section includes a list of prerequisites
    - Experiment 1:  
          - In this experiment, we will conduct walking tests on two types of terrain: flat             terrain without obstacles and flat terrain with obstacles. 
          - Additionally, we will compare the effectiveness of walking with and without                 springs. Which method is more effective?
+         - by having the robot walk a distance of 50 centimeters within 15 minutes.
+     
      <img src="image/test1.jpg" width="500" height="300">
+
+   - You can watch a video clip for the experiment at this link, which is a compilation of 1 video from the 4 experiments.
+     [Watch the video on YouTube](https://youtu.be/K6Rzk2AfT0k)
+
    - From the experiment results, we summarized the findings in a graph. It was found that    walking with springs improved performance compared to walking without springs, on both obstacle-free and obstacle-laden terrain. However, for the walking test on obstacle-laden terrain without springs, we could not conclude the results in the last three trials because the robot front legs broke.
-     <img src="image/g1.jpg" width="250" height="300">
-     <img src="image/g2.jpg" width="250" height="300">
+     
+     <img src="image/g1.jpg" width="300" height="250">
+     
+     <img src="image/g2.jpg" width="300" height="250">
 
    
 

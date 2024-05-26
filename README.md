@@ -173,7 +173,8 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 2. Hormones Concentration(HC)
 
    Takes the value of the sensor as input. Then take the standard deviation to represent the hormonal changes in each period. Then bring it into the hormone equation to get the amount of hormones secreted, which is the HC value.In addition, the HC value must be calculated with the Hormones Receoter to get the value that affects mood.
-         You can find about Hormone calculation from [here](https://docs.google.com/spreadsheets/d/1ysU-uzWMpW0UrVVLxHHKWWODgd5BCDr7dVBZ5aWzhAU/edit?usp=sharing)
+   
+   You can find about Hormone calculation from [here](https://docs.google.com/spreadsheets/d/1ysU-uzWMpW0UrVVLxHHKWWODgd5BCDr7dVBZ5aWzhAU/edit?usp=sharing)
    
    **Graph of Hormones Concentration**
 
@@ -181,7 +182,7 @@ In order to ensure a smooth start, this section includes a list of prerequisites
    <img src="image/image_graph_1.png" width="400" height="250">
 
    _For adjusting alpha and beta values. Alpha value and beta value Must be greater than 0 and not more than 1.
-If the beta value is close to 0, it will be close to the alpha value. and will be less similar if the beta value is close to 1_
+If the beta value is close to 0, it will be close to the alpha value. and will be less similar if the beta value close to 1_
 
    
    **Hormones Gland and Receptor**
@@ -204,7 +205,7 @@ If the beta value is close to 0, it will be close to the alpha value. and will b
    
    _By replacing moving with 1 and not moving as 0. It can be seen that movement under normal conditions will not change. But if there are hormones, the condition will change over time. Therefore, walking occurs when hormonal stress of fear subsides._   
    
-3. Walking Test Steps
+4. Walking Test Steps
    - Experiment 1:  
          - In this experiment, we will conduct walking tests on two types of terrain: flat             terrain without obstacles and flat terrain with obstacles. 
          - Additionally, we will compare the effectiveness of walking with and without                 springs. Which method is more effective?

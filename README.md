@@ -142,11 +142,12 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 2. Hormones Concentration
 
    Calculation : Takes the value of the sensor as input. Then take the standard deviation to represent the hormonal changes in each period. Then bring it into the hormone equation to get the amount of hormones secreted, which is the HC (Hormones Concentration) value.
-Hormone calculation 
+   
+(Hormone calculation: https://docs.google.com/spreadsheets/d/1ysU-uzWMpW0UrVVLxHHKWWODgd5BCDr7dVBZ5aWzhAU/edit?usp=sharing )
    
    (ภาพที่ 1 ตาราง+สมการ)
 
-In addition, the HC value must be calculated with the Hormones Receoter to get the value that affects mood.
+   In addition, the HC value must be calculated with the Hormones Receoter to get the value that affects mood.
 
    (ภาพที่ 2 การจับฮอร์โมน ตัวจับ)
    

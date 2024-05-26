@@ -110,13 +110,14 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 1. Assemble the Robot Structure
 - The robot's primary structure can be constructed using the assembly guide found in the SolidWorks files.
 - Place electrical in the designated locations.   
-
+   <img src="image/cer2.png" width="250" height="350">
+   <img src="image/cer3.png" width="350" height="250">
 2. Connect the Electrical Circuit
 
 - Wires between the microcontroller(Arduino uno r4), servo, sensors, and batteries should be installed and connected using the electrical circuit schematic.
 - Make sure every connection is safe and secure.
 
-   <img src="image/13.png" width="400" height="350">
+   <img src="image/cer1.png" width="400" height="350">
 
 3. Energy consumption
    - The battery used is a Helicox 3000mA. A single battery can last approximately 1-2 hours,    as can be seen from the following calculations

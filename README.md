@@ -139,7 +139,8 @@ In order to ensure a smooth start, this section includes a list of prerequisites
    
       Values for O1 and O2, derived from graphing in [excel](https://pim365-my.sharepoint.com/:x:/r/personal/6452500121_stu_pim_ac_th/_layouts/15/Doc.aspx?sourcedoc=%7B3D47D774-FDE3-4311-9CD7-444A83FABF04%7D&file=project%20.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&login_hint=6452500121%40stu.pim.ac.th&ct=1716663021386&wdOrigin=OFFICECOM-WEB.MAIN.REC&cid=67ed9d8f-d7ad-4c99-95e9-1ad7726ff029&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=2518b866-0c7a-4d60-9b7b-da8b720042b8)
 
-2. Hormones Conceืtratiion
+2. Hormones Concentration
+
    Calculation : Takes the value of the sensor as input. Then take the standard deviation to represent the hormonal changes in each period. Then bring it into the hormone equation to get the amount of hormones secreted, which is the HC (Hormones Concentration) value.
 Hormone calculation 
    

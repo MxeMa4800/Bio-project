@@ -117,7 +117,7 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 - Wires between the microcontroller(Arduino uno r4), servo, sensors, and batteries should be installed and connected using the electrical circuit schematic.
 - Make sure every connection is safe and secure.
 
-   <img src="image/cer1.jpg" width="450" height="350">
+   <img src="image/cer1.jpg" width="500" height="300">
 
 3. Energy consumption
    - The battery used is a Helicox 3000mA. A single battery can last approximately 1-2 hours,    as can be seen from the following calculations

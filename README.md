@@ -120,9 +120,28 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 
 ## Robot Design
 ### **Main Structure**
-- Robots with sturdy, lightweight main structures can move with greater agility. The body is made of PLA and wood.
+1. This robot is designed to walk on four legs, with the main materials used being: 
 
-   <img src="image/12.png" width="400" height="250">
+- PLA+ Filament 
+
+- Acrylic 2 mm thick 
+
+- Wooden boards 2.5 mm and 4 mm
+**Replacing the leg material from wood to acrylic might yield better results, but be cautious of material breakage.
+
+   <img src="image/g6.png" width="400" height="250">
+   assemble whit out skin
+   <img src="image/g7.png" width="400" height="250">
+   Assemble full skin 
+2. The skeleton of the Stegosaurus has front and hind legs of different sizes. Therefore, the designer made the front and hind legs of different sizes, with a ratio of 1:1.51, but the size difference does not exceed 2 times.
+   <img src="image/g4.png" width="400" height="250">
+3.Based on calculations, this robot can support a weight of approximately 1500 grams, with a tolerance of ±250 grams
+<img src="image/c1.png" width="400" height="250">
+<img src="image/c2.png" width="400" height="250">
+4. The designer tested and found that the hind legs can support a weight of 750 grams. When the robot starts walking, there are always two legs on the ground. Therefore, the robot can support a weight of approximately 1500 grams, with a tolerance of no more than ±250 grams.
+    <img src="image/g5.png" width="400" height="250">
+5. You can view the CAD model in the STEP file named as shown in the image.
+      <img src="image/g3.png" width="400" height="250">
 
 ### **Joints and Actuators**
 

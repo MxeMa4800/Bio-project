@@ -166,26 +166,40 @@ In order to ensure a smooth start, this section includes a list of prerequisites
    
       Values for O1 and O2, derived from graphing in [excel](https://pim365-my.sharepoint.com/:x:/r/personal/6452500121_stu_pim_ac_th/_layouts/15/Doc.aspx?sourcedoc=%7B3D47D774-FDE3-4311-9CD7-444A83FABF04%7D&file=project%20.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&login_hint=6452500121%40stu.pim.ac.th&ct=1716663021386&wdOrigin=OFFICECOM-WEB.MAIN.REC&cid=67ed9d8f-d7ad-4c99-95e9-1ad7726ff029&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=2518b866-0c7a-4d60-9b7b-da8b720042b8)
 
-2. Hormones Concentration
+2. Hormones Concentration(HC)
 
-   Calculation : Takes the value of the sensor as input. Then take the standard deviation to represent the hormonal changes in each period. Then bring it into the hormone equation to get the amount of hormones secreted, which is the HC (Hormones Concentration) value.
+   Takes the value of the sensor as input. Then take the standard deviation to represent the hormonal changes in each period. Then bring it into the hormone equation to get the amount of hormones secreted, which is the HC value.In addition, the HC value must be calculated with the Hormones Receoter to get the value that affects mood.
+         You can find about Hormone calculation from [here](https://docs.google.com/spreadsheets/d/1ysU-uzWMpW0UrVVLxHHKWWODgd5BCDr7dVBZ5aWzhAU/edit?usp=sharing)
    
-   (Hormone calculation)
+   **Graph of Hormones Concentration**
 
-   https://docs.google.com/spreadsheets/d/1ysU-uzWMpW0UrVVLxHHKWWODgd5BCDr7dVBZ5aWzhAU/edit?usp=sharing
+   <img src="image/image_graph_2.png" width="400" height="250">
+   <img src="image/image_graph_1.png" width="400" height="250">
+
+   _For adjusting alpha and beta values. Alpha value and beta value Must be greater than 0 and not more than 1.
+If the beta value is close to 0, it will be close to the alpha value. and will be less similar if the beta value is close to 1_
+
    
-   (ภาพที่ 1 ตาราง+สมการ)
+   **Hormones Gland and Receptor**
 
-   In addition, the HC value must be calculated with the Hormones Receoter to get the value that affects mood.
+   <img src="image/image_Hormoens_Gland.png" width="300" height="250">
 
-   (ภาพที่ 2 การจับฮอร์โมน ตัวจับ)
+   **Condition value without Hormone and value with Hormone**
    
-   Results and graphs : The difference between having and not having hormones will result in a change in the behavior of the robot. This is because the changing hormonal values ​​affect the conditions in which the robot responds.
+   The difference between having and not having hormones will result in a change in the behavior of the robot. This is because the changing hormonal values ​​affect the conditions in which the robot responds.
 
-   (ภาพที่ 3 ตารางความแตกต่างระหว่างมีไม่มี + เขียนใต้ภาพว่าเปรียบเทียบในกรณีไหน กราฟเส้นเดี่ยว)
+   <img src="image/image_table_check.png" width="300" height="400">
+   <img src="image/image_graph_check.png" width="400" height="250">
 
-   (ภาพที่ 4 ตารางความแตกต่างระหว่างมีไม่มี + เขียนใต้ภาพว่าเปรียบเทียบในกรณีไหน กราฟเส้นเดี่ยว *2)
-
+   _The blue lines indicate the values ​​that are the operating conditions for the robot. That's different from the red line where hormones are part of the variables that affect working conditions. The range of values ​​used to actuate will vary according to the hormone levels in the robot._
+   
+   **Graph of Action without Hormone and Action with Hormones**
+   
+   <img src="image/image_HcTime_Hc.png" width="400" height="250">
+   <img src="image/image_HcTime_noHc.png" width="400" height="250">
+   
+   _By replacing movement with 1 and stationary as 0. It can be seen that movement under normal conditions will not change. But if there are hormones, the condition will change over time. Therefore, walking occurs when hormonal stress of fear subsides._   
+   
 3. Walking Test Steps
    - Experiment 1:  
          - In this experiment, we will conduct walking tests on two types of terrain: flat             terrain without obstacles and flat terrain with obstacles. 

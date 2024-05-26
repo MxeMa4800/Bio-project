@@ -121,7 +121,7 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 3. Energy consumption
    - The battery used is a Helicox 3000mA. A single battery can last approximately 1-2 hours,    as can be seen from the following calculations
      
-     <img src="image/p1.jpg" width="400" height="300">
+     <img src="image/p1.jpg" width="450" height="300">
 ## Robot Design
 ### **Main Structure**
 1. This robot is designed to walk on four legs, with the main materials used being: 
@@ -139,16 +139,16 @@ In order to ensure a smooth start, this section includes a list of prerequisites
    <img src="image/g7.jpg" width="400" height="300">
    Assemble full skin 
    
-2. The skeleton of the Stegosaurus has front and hind legs of different sizes. Therefore, the designer made the front and hind legs of different sizes, with a ratio of 1:1.51, but the size difference does not exceed 2 times.
+ 2. The skeleton of the Stegosaurus has front and hind legs of different sizes. Therefore, the designer made the front and hind legs of different sizes, with a ratio of 1:1.51, but the size difference does not exceed 2 times.
    <img src="image/g4.jpg" width="400" height="500">
    
-3.Based on calculations, this robot can support a weight of approximately 1500 grams, with a tolerance of ±250 grams
+ 3.Based on calculations, this robot can support a weight of approximately 1500 grams, with a tolerance of ±250 grams
 
    <img src="image/c1.jpg" width="400" height="500">
    <img src="image/c2.jpg" width="400" height="500">
-4. The designer tested and found that the hind legs can support a weight of 750 grams. When the robot starts walking, there are always two legs on the ground. Therefore, the robot can support a weight of approximately 1500 grams, with a tolerance of no more than ±250 grams.
+ 4. The designer tested and found that the hind legs can support a weight of 750 grams. When the robot starts walking, there are always two legs on the ground. Therefore, the robot can support a weight of approximately 1500 grams, with a tolerance of no more than ±250 grams.
    <img src="image/g5.jpg" width="400" height="500">
-5. You can view the CAD model in the STEP file named as shown in the image.
+ 5. You can view the CAD model in the STEP file named as shown in the image.
     <img src="image/g3.jpg" width="500" height="300">
 
 ### **Joints and Actuators**
@@ -199,9 +199,9 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 
    - From the experiment results, we summarized the findings in a graph. It was found that    walking with springs improved performance compared to walking without springs, on both obstacle-free and obstacle-laden terrain. However, for the walking test on obstacle-laden terrain without springs, we could not conclude the results in the last three trials because the robot front legs broke.
      
-     <img src="image/g1.jpg" width="300" height="250">
+     <img src="image/g1.jpg" width="350" height="250">
      
-     <img src="image/g2.jpg" width="300" height="250">
+     <img src="image/g2.jpg" width="350" height="250">
 
    
 

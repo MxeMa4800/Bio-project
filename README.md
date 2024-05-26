@@ -199,9 +199,9 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 
    - From the experiment results, we summarized the findings in a graph. It was found that    walking with springs improved performance compared to walking without springs, on both obstacle-free and obstacle-laden terrain. However, for the walking test on obstacle-laden terrain without springs, we could not conclude the results in the last three trials because the robot front legs broke.
      
-     <img src="image/g1.jpg" width="350" height="250">
+     <img src="image/g1.jpg" width="400" height="250">
      
-     <img src="image/g2.jpg" width="350" height="250">
+     <img src="image/g2.jpg" width="400" height="250">
 
    
 

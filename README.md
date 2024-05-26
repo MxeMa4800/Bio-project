@@ -217,6 +217,7 @@ If the beta value is close to 0, it will be close to the alpha value. and will b
         No Obstacle Blue color = With spring, Red color = Without spring
      <img src="image/g2.jpg" width="450" height="250">
         Obstacle Blue color = With spring, Red color = Without spring
+        
       - X-axis = Seconds, Y-axis = Number of occurrences
 
    

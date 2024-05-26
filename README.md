@@ -213,9 +213,11 @@ If the beta value is close to 0, it will be close to the alpha value. and will b
 
    - From the experiment results, we summarized the findings in a graph. It was found that    walking with springs improved performance compared to walking without springs, on both obstacle-free and obstacle-laden terrain. However, for the walking test on obstacle-laden terrain without springs, we could not conclude the results in the last three trials because the robot front legs broke.
      
-     <img src="image/g1.jpg" width="400" height="250">
-     
-     <img src="image/g2.jpg" width="400" height="250">
+     <img src="image/g1.jpg" width="450" height="250">
+        No Obstacle Blue color = With spring, Red color = Without spring
+     <img src="image/g2.jpg" width="450" height="250">
+        Obstacle Blue color = With spring, Red color = Without spring
+      - X-axis = Seconds, Y-axis = Number of occurrences
 
    
 

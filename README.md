@@ -133,13 +133,15 @@ In order to ensure a smooth start, this section includes a list of prerequisites
    - Wooden boards 2.5 mm and 4 mm
      
    ** Replacing the leg material from wood to acrylic might yield better results, but be cautious of material breakage.
-
-   <img src="image/g6.jpg" width="400" height="300">
-   assemble whit out skin
-   <img src="image/g7.jpg" width="400" height="300">
-   Assemble full skin 
    
- 2. The skeleton of the Stegosaurus has front and hind legs of different sizes. Therefore, the designer made the front and hind legs of different sizes, with a ratio of 1:1.51, but the size difference does not exceed 2 times.
+   Assemble whit out skin
+   <img src="image/g6.jpg" width="400" height="300">
+   
+   Assemble full skin 
+   <img src="image/g7.jpg" width="400" height="300">
+
+   
+ 3. The skeleton of the Stegosaurus has front and hind legs of different sizes. Therefore, the designer made the front and hind legs of different sizes, with a ratio of 1:1.51, but the size difference does not exceed 2 times.
    <img src="image/g4.jpg" width="400" height="500">
    
  3.Based on calculations, this robot can support a weight of approximately 1500 grams, with a tolerance of ±250 grams

@@ -118,6 +118,10 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 
    <img src="image/13.png" width="400" height="350">
 
+3. Energy consumption
+   - The battery used is a Helicox 3000mA. A single battery can last approximately 1-2 hours,    as can be seen from the following calculations
+     
+     <img src="image/P1.jpg" width="400" height="300">
 ## Robot Design
 ### **Main Structure**
 1. This robot is designed to walk on four legs, with the main materials used being: 
@@ -180,6 +184,15 @@ In order to ensure a smooth start, this section includes a list of prerequisites
    (ภาพที่ 3 ตารางความแตกต่างระหว่างมีไม่มี + เขียนใต้ภาพว่าเปรียบเทียบในกรณีไหน กราฟเส้นเดี่ยว)
 
    (ภาพที่ 4 ตารางความแตกต่างระหว่างมีไม่มี + เขียนใต้ภาพว่าเปรียบเทียบในกรณีไหน กราฟเส้นเดี่ยว *2)
+
+3. Walking Test Steps
+   - Experiment 1:  
+         - In this experiment, we will conduct walking tests on two types of terrain: flat             terrain without obstacles and flat terrain with obstacles. 
+         - Additionally, we will compare the effectiveness of walking with and without                 springs. Which method is more effective?
+     <img src="image/test1.jpg" width="500" height="300">
+   - From the experiment results, we summarized the findings in a graph. It was found that    walking with springs improved performance compared to walking without springs, on both obstacle-free and obstacle-laden terrain. However, for the walking test on obstacle-laden terrain without springs, we could not conclude the results in the last three trials because the robot front legs broke.
+     <img src="image/g1.jpg" width="250" height="300">
+     <img src="image/g2.jpg" width="250" height="300">
 
    
 

@@ -143,7 +143,8 @@ In order to ensure a smooth start, this section includes a list of prerequisites
 
    Calculation : Takes the value of the sensor as input. Then take the standard deviation to represent the hormonal changes in each period. Then bring it into the hormone equation to get the amount of hormones secreted, which is the HC (Hormones Concentration) value.
    
-(Hormone calculation: https://docs.google.com/spreadsheets/d/1ysU-uzWMpW0UrVVLxHHKWWODgd5BCDr7dVBZ5aWzhAU/edit?usp=sharing )
+(Hormone calculation)
+https://docs.google.com/spreadsheets/d/1ysU-uzWMpW0UrVVLxHHKWWODgd5BCDr7dVBZ5aWzhAU/edit?usp=sharing
    
    (ภาพที่ 1 ตาราง+สมการ)
 

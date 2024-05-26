@@ -135,9 +135,11 @@ In order to ensure a smooth start, this section includes a list of prerequisites
    ** Replacing the leg material from wood to acrylic might yield better results, but be cautious of material breakage.
    
    Assemble whit out skin
+   
    <img src="image/g6.jpg" width="400" height="300">
    
-   Assemble full skin 
+   Assemble full skin
+   
    <img src="image/g7.jpg" width="400" height="300">
 
    
